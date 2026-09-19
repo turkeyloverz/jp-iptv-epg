@@ -1,0 +1,129 @@
+#EXTM3U url-tvg="https://skinred78.github.io/jp-iptv-epg/jp-epg-merged.xml" tvg-shift=0
+
+# VLC-confirmed working Japanese channels
+# Built from turkeyloverz/jp-iptv-epg on 2026-09-20
+# Duplicate QVC (CS) / GSTV (CS) variants intentionally omitted in favor of one clean entry per service.
+
+# === News / General ===
+
+#EXTINF:-1 group-title="News" tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_115.png",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png",共同通信News
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="rch_54" tvg-name="オリコンニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_54.png",オリコンニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/reuters_60.png",Reuters 60
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="rch_103" tvg-name="NewsWorld" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/newsworld.png",NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_entns.png",エンタメニュース (FAST)
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_busns.png",ビジネス・プレミアム (FAST)
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png",東海ロキポ (FAST)
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png",丸ごと九州 (FAST)
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_hokkaido.png",丸ごと北海道 (FAST)
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png",NHK World-Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+# === Entertainment / Anime / Culture ===
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="rch_113" tvg-name="ぷれいば！" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_113.png",ぷれいば！
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_jpthp.png",ぴあ落語ざんまい (FAST)
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",アニマックス FREE (FAST)
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png",手塚プロダクションTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png",キッズ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png",LeminoTV (FAST)
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png",韓流チャンネル (FAST)
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_samri.png",時代劇TV (FAST)
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+
+# === Music ===
+
+#EXTINF:-1 group-title="Music" tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png",that’s 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png",that’s 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_90s00s.png",that’s 90s00s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="rch_107" tvg-name="that’s Rock" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_rock.png",that’s Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+
+# === Lifestyle / Hobbies ===
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fashionplus.png",FASHIONPLUS (FAST)
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+
+#EXTINF:-1 group-title="Games" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_goshogi.png",囲碁・将棋ライト (FAST)
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png",キャンプ・アウトドア (FAST)
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png",GOLF LIFE (FAST)
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+
+#EXTINF:-1 group-title="Pets" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_pett1.png",ペットTV (FAST)
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+
+#EXTINF:-1 group-title="Pets" tvg-id="rch_86" tvg-name="ワンニャンチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_86.png",ワンニャンチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png",TOP BARÇA
+https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+
+# === Shopping / Weather ===
+
+#EXTINF:-1 group-title="Shopping" tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+
+#EXTINF:-1 group-title="Shopping" tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+
+#EXTINF:-1 group-title="Shopping" tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/CCMAF7W.png",ショップチャンネル
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 group-title="Weather" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png",Weather News
+http://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
